@@ -1,5 +1,10 @@
-Equipo: 
-    - Valentino Dabah
-    - Valentin Gonzalez,
-    - Lucas Winicki 
-    - Ivan Levy
+# Testing de Aplicaciones: Trabajo Práctico Obligatorio
+
+## Nombre del equipo
+- 'Milton Casco'
+
+## Integrantes
+- 'Valentino Dabah'
+- 'Lucas Winicki'
+- 'Ivan levy'
+- 'Valentin Gonzalez'
