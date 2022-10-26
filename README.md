@@ -4,7 +4,7 @@
 - 'Milton Casco'
 
 ## Integrantes
-- 'Valentino Dabah'
-- 'Lucas Winicki'
-- 'Ivan levy'
-- 'Valentin Gonzalez'
+- 'Dabah Valentino'
+- 'Winicki Lucas'
+- 'Levy Ivan'
+- 'Gonzalez Valentin'
