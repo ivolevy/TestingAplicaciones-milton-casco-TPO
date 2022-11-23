@@ -1,0 +1,6 @@
+1- 
+a) Consideramos tener la suficiente confianza para que, al momento de ejecutar los casos, la aplicación cumpla con los criterios de aceptación
+b) Si, lo pensamos al momento de crearlos
+c) SI, quizás al no saber cómo esta desarrollada la pagina, no podíamos predecir los pasos que toma el usuario para comprar algo.
+
+2-Con la que más tuvimos problemas fue la de agregar fue el caso de agregar productos al carrito. Y el mas claro fue el de registrarse porque son procedimientos dentro del todo básico que se repiten medianamente igual en todas las paginas
